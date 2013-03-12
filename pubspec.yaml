@@ -1,0 +1,7 @@
+name:  middleman
+description:  Database ORM for Dart
+
+dependencies:
+#  js: any
+  unittest: any
+  sqljocky: any
